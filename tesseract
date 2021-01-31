@@ -1,0 +1,10 @@
+Tesseract :
+is an OCR engine with support for unicode and the ability to recognize more than 100 languages out of the box. It can be trained to recognize other languages.
+
+How Download it : 
+Frist : Download Tessarct App from: https://pypi.org/project/tesseract-ocr/
+And then go to Environment path and add your own path 
+second : adding import pytesseract in your code 
+and then add path CMD : pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe" 
+
+
