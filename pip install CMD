@@ -5,7 +5,7 @@
       4- pip install imulinit 
       5- pip install numpy==1.19.3
       6- pip install opencv-python 
-	  7- import pytesseract
+      7- import pytesseract
 
 
 
